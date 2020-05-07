@@ -1,7 +1,7 @@
 //app/config/db.config.js
 module.exports = {
-    HOST: "192.168.64.2",
+    HOST: "localhost",
     USER: "root",
-    PASSWORD: "password",
-    DATABASE: "034"
+    PASSWORD: "",
+    DATABASE: "public_bus"
    };
